@@ -16,8 +16,6 @@ Usage:
 
 
 """
-
-import sys
 import glob
 import os.path
 import ctypes
